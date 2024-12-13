@@ -41,10 +41,10 @@ N/A
 
 
 Registration Page
-![2024-12-13_08-15](https://github.com/user-attachments/assets/69cb61ce-c7a3-4f07-8581-802c0cfa4741)
+![2024-12-13_08-13](https://github.com/user-attachments/assets/76dfcf87-e208-40bf-b796-072776b98ac9)
+
 Login page
-<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-15](https://github.com/user-attachments/assets/69cb61ce-c7a3-4f07-8581-802c0cfa4741)">
-![2024-12-13_08-15](https://github.com/user-attachments/assets/69cb61ce-c7a3-4f07-8581-802c0cfa4741
+![2024-12-13](https://github.com/user-attachments/assets/69cb61ce-c7a3-4f07-8581-802c0cfa4741)
 
 Book listing page
 <img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-19](https://github.com/user-attachments/assets/c5900370-73d7-45b3-a9ab-71272d85835f)">
