@@ -26,7 +26,7 @@ MySQL Workbench 8.0 community
 The E-Book Management System development emphasizes a systematic, modular approach, ensuring scalability, maintainability, and usability. Below is a structured methodology for developing the project:
 
 1. Requirement Gathering
-Identify functional requirements like book CRUD operations, user authentication (Sign In/Sign Up), and order management.
+Identify functional requirements like user authentication (Sign In/Sign Up), and order management.
 Specify non-functional requirements, including security, performance, and responsive design.
 2. Technology Stack Selection
 Frontend: HTML, CSS, Bootstrap for responsive and aesthetic UI.
@@ -37,25 +37,22 @@ Tools: NetBeans IDE, Apache Tomcat server for testing and deployment.
 Database Design:
 Tables for Users, Books, Orders, etc., with relationships and constraints.
 Architecture:
-Follow the MVC (Model-View-Controller) pattern for separation of concerns.
 Controllers (Servlets) handle logic, Views (JSP/HTML) present the interface, and Models interact with the database.
 4. Development Process
 Module-Based Development:
 Divide work into modules: User Management, Book Management, Order Processing.
 Security Implementation:
-Encrypt sensitive data like passwords using MD5/SHA hashing.
 Implement validation checks to prevent SQL Injection and XSS attacks.
 Responsive Design:
 Use CSS and Bootstrap to ensure compatibility with various devices.
 Testing Frameworks:
-Unit testing for servlets and database interactions using JUnit.
+Unit testing for servlets and database.
 5. Integration and Testing
 Integrate frontend with backend using servlets and JSP.
 Test all modules individually and as a whole for functionality, security, and performance.
 Use automated tools where possible for performance testing.
 6. Deployment and Maintenance
 Deploy the application on an Apache Tomcat server.
-Provide a user manual or documentation for easy navigation.
 Continuously monitor, fix bugs, and update features as needed.
 Tools and Best Practices
 Version Control: Use GitHub for code collaboration and version management.
