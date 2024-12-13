@@ -52,16 +52,17 @@ Book listing page
 ![2024-12-13](https://github.com/user-attachments/assets/002c6a35-6012-4d1a-8339-33d4d9ea0427)
 
 Book detail page
-<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-23](https://github.com/user-attachments/assets/214ce47d-a257-4160-bbec-17b461debf8c)">
+![2024-12-13](https://github.com/user-attachments/assets/c629a388-edcf-4399-b690-56266e241dbc)
 
 Add/edit book
-<img width="1438" alt="Screenshot 2024-12-13" src="![2024-12-13_08-25](https://github.com/user-attachments/assets/bdf3a529-0776-499b-be01-bbf6a8ee8ee6)">
+![2024-12-13](https://github.com/user-attachments/assets/996c4da1-fc61-4d0a-affa-f0c7dc20551d)
 
 Add to cart
-<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-26](https://github.com/user-attachments/assets/03770283-cd37-4d54-bece-a28b78a06861)">
+![2024-12-13](https://github.com/user-attachments/assets/dfe2a8df-c8f6-4648-9b70-a550895fcb33)
 
 Setting
-<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-27](https://github.com/user-attachments/assets/c474bf02-c0ba-4228-b96a-b8fd4916c7f5)">
+
+![2024-12-13](https://github.com/user-attachments/assets/9395dbbd-fe76-46a3-9844-dcb02f6b919e)
 
 Any other relevant features]
 
