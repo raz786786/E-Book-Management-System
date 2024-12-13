@@ -68,8 +68,6 @@ Any other relevant features]
 
 ## Contributing
 
-Can add verification features to check copyright of
-user uploaded books
 
 ## License
 
@@ -78,3 +76,4 @@ Public domain
 ## Acknowledgements
 
 Special thanks to Pavitra for their valuable resources.
+His Youtube Channel Link https://www.youtube.com/@BeCoder
