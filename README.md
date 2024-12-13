@@ -41,9 +41,7 @@ N/A
 
 
 Registration Page
-![2024-12-13_08-15](https://github.com/user-attachments/assets/69cb61ce-c7a3-4f07-8581-802c0cfa4741)">)
-<img width="1440" alt="Screenshot 2024-12-13" src="[[![2024-12-13_08-13](https://github.com/user-attachments/assets/3bd2db01-9239-4845-acb4-7b97f2ecc632)](https://github.com/raz786786/E-Book-Management-System/blob/main/Images/Screenshots/2024-12-13_08-13.png)](https://github.com/raz786786/E-Book-Management-System/blob/b24a786b5f9e7fc7153f9e922ab574e6497ff7c3/Images/Screenshots/2024-12-13_08-13.png)">
-
+![2024-12-13_08-15](https://github.com/user-attachments/assets/69cb61ce-c7a3-4f07-8581-802c0cfa4741)
 Login page
 <img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-15](https://github.com/user-attachments/assets/69cb61ce-c7a3-4f07-8581-802c0cfa4741)">
 ![2024-12-13_08-15](https://github.com/user-attachments/assets/69cb61ce-c7a3-4f07-8581-802c0cfa4741
