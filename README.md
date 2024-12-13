@@ -40,38 +40,38 @@ N/A
 [Add screenshots demonstrating key features and functionalities, such as:
 
 Registration Page
-<img width="1440" alt="Screenshot 2024-12-13" src="https://ibb.co/VjKFsj9">
+<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-13](https://github.com/user-attachments/assets/3bd2db01-9239-4845-acb4-7b97f2ecc632)">
 
 Login page
-<img width="1440" alt="Screenshot 2024-12-13" src="https://ibb.co/HqS7d4t">
+<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-15](https://github.com/user-attachments/assets/69cb61ce-c7a3-4f07-8581-802c0cfa4741)">
 
 Book listing page
-<img width="1440" alt="Screenshot 2024-12-13" src="https://ibb.co/qjKr880">
-<img width="1440" alt="Screenshot 2024-12-13" src="https://ibb.co/pjtBMS7">
-<img width="1440" alt="Screenshot 2024-12-13" src="https://ibb.co/vwYSShC">
+<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-19](https://github.com/user-attachments/assets/c5900370-73d7-45b3-a9ab-71272d85835f)">
+<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-20](https://github.com/user-attachments/assets/c5b6a887-d80d-4b3c-9cc0-b3867eaf87c1)">
+<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-22](https://github.com/user-attachments/assets/1eeefe10-9455-47e8-9c2e-181f4ab87844)">
 
 Book detail page
-<img width="1440" alt="Screenshot 2024-12-13" src="https://ibb.co/fGPSH2B">
+<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-23](https://github.com/user-attachments/assets/214ce47d-a257-4160-bbec-17b461debf8c)">
 
 Add/edit book
-<img width="1438" alt="Screenshot 2024-12-13" src="https://ibb.co/hFYfw8P">
+<img width="1438" alt="Screenshot 2024-12-13" src="![2024-12-13_08-25](https://github.com/user-attachments/assets/bdf3a529-0776-499b-be01-bbf6a8ee8ee6)">
 
 Add to cart
-<img width="1440" alt="Screenshot 2024-12-13" src="https://ibb.co/KbzBwXS">
+<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-26](https://github.com/user-attachments/assets/03770283-cd37-4d54-bece-a28b78a06861)">
 
 Setting
-<img width="1440" alt="Screenshot 2024-12-13" src="https://ibb.co/rM6kQnH">
+<img width="1440" alt="Screenshot 2024-12-13" src="![2024-12-13_08-27](https://github.com/user-attachments/assets/c474bf02-c0ba-4228-b96a-b8fd4916c7f5)">
 
 Any other relevant features]
 
 ## Contributing
 
-(Can add verification features to check copyright of
-user uploaded books)
+Can add verification features to check copyright of
+user uploaded books
 
 ## License
 
-(Public domain)
+Public domain
 
 ## Acknowledgements
 
